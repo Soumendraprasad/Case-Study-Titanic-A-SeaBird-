@@ -8,3 +8,4 @@ Here I performed EDA &amp; Prediction On  Survival Of Titanic Passengers . You C
 - Fearture Selection & Engineering
 - BaseLine
 - HyperParameter Tuning
+<img src = "https://media.tenor.com/dRQMwkMSytYAAAAC/titanic.gif" width = 400 height = 450/>
