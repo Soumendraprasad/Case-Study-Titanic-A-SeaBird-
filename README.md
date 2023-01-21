@@ -17,4 +17,5 @@ https://www.kaggle.com/code/soumendraprasad/titanic-case-study-one-ship-to-rule-
 
 <img src="https://media.tenor.com/ZrFooc6A9ysAAAAC/goodgoodgeneral-mental-health.gif" width= 450 height = 400 />
 
-# Do Check Out My 👉 [Kaggle Link](https://www.kaggle.com/soumendraprasad)
+# Do Check Out My 👉 [Kaggle Profile](https://www.kaggle.com/soumendraprasad)
+# Do Check Out My 👉 [LinkedIn  Profile](https://www.linkedin.com/in/soumendra-prasad-mohanty-9338b9243/)
