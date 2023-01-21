@@ -13,7 +13,7 @@ https://www.kaggle.com/code/soumendraprasad/titanic-case-study-one-ship-to-rule-
 - BaseLine
 - HyperParameter Tuning
 
-**Hope You  Found It Useful 👍. I Will Try To Update It If I Ran Some Successful Experiments .**
+**Hope You  Found It Useful 👍. I Will Try To Update It If I Will Get Some LB Improvements .**
 
 <img src="https://media.tenor.com/ZrFooc6A9ysAAAAC/goodgoodgeneral-mental-health.gif" width= 450 height = 400 />
 
