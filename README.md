@@ -1,3 +1,9 @@
+# My Kaggle Profile Current Ranking
+![dataset1](https://road-to-kaggle-grandmaster.vercel.app/api/badges/soumendraprasad/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/soumendraprasad/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/soumendraprasad/discussion)
+
+
 # Case-Study-Titanic-A-SeaBird-
 <img src = "https://media.tenor.com/dRQMwkMSytYAAAAC/titanic.gif" width = 400 height = 450/>
 Here I performed EDA &amp; Prediction On  Survival Of Titanic Passengers . You Can Also See It Here 👇
